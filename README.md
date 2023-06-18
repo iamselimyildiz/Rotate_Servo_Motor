@@ -14,7 +14,7 @@ Kabloların takılacağı soketler:`Kırmızı:5V,Turuncu:10 ve Siyah:Topraklama
 7)Yeni pencerede açılan kodu üstteki `Upload(-->)` tuşu ile Ardunio ya yükle.   
 Eğer sorunla karşılaşırsan select board ile diğer portları dene.  
 ![InkedEkran Görüntüsü (168)](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/99e102c7-5f58-4495-b942-d1d38c3e6e73)  
-8) Son aşama, hangi portta olduğumuzu yazacağımız python koduna yapıştıralım. Benim durumumda `COM3`  
+8) Son aşama, hangi portta olduğumuzu yazacağımız python koduna yapıştıralım. (Benim durumumda `COM5`dı)  
 ![Ekran Görüntüsü (169)](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/df41b475-d2c1-47f0-9966-e6774661d0fe)  
 9) Kod editörünü aç ve `Port="COM3"` yazan kısma kendi portunu aynı formatta yaz.  
 Repodaki `1.py` adındaki python uzantılı dosyadaki kodu kullan ve yazarken anlamaya çalış.  
