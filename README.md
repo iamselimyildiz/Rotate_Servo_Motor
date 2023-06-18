@@ -5,7 +5,7 @@
 3)Ardinuo yu aç ve üst bardan Tools/Library Manager kısmına girip `firmata` diye arat.  
 ![1](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/d1412f3b-27b4-4d91-9109-85495f1eb9b9)  
 4)Şimdi sıra Ardunio ile Servo motor (ben SV90 modelini kulandım)' ı bağlamaya geldi.  
-Kabloların takılacağı soketler:` Kırmızı:5V,Turuncu:-5 ve Siyah:Topraklama(GND)`.    
+Kabloların takılacağı soketler:`Kırmızı:5V,Turuncu:10 ve Siyah:Topraklama(GND)`.    
 (Tabi servo'nun kollarını vidalamayı unutmayın.)  
 ![ardunio_ve_servo_bağlantı](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/c57ce6d5-7ea2-4b6c-a73d-0145d1d7215b)  
 5)Kablo bağlamaları yapıldıktan sonra güç kablosunu(power cord) Ardunio'ya bağlayın.  Şu aşamada PC-ARDUNIO-SERVO bağlantısı yapılmış olmalı.  
