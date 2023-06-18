@@ -18,6 +18,8 @@ Eğer sorunla karşılaşırsan select board ile diğer portları dene.
 ![Ekran Görüntüsü (169)](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/df41b475-d2c1-47f0-9966-e6774661d0fe)  
 9) Kod editörünü aç ve `Port="COM3"` yazan kısma kendi portunu aynı formatta yaz.  
 Repodaki `1.py` adındaki python uzantılı dosyadaki kodu kullan ve yazarken anlamaya çalış.  
+![SharedScreenshot](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/ea17b4bd-d283-4f7d-9930-556de74272b6)
+
 
 
 
