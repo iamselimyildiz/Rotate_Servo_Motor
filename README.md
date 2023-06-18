@@ -18,7 +18,7 @@ Eğer sorunla karşılaşırsan select board ile diğer portları dene.
 ![Ekran Görüntüsü (169)](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/df41b475-d2c1-47f0-9966-e6774661d0fe)  
 9) Kod editörünü aç ve `Port="COM3" ve pin=10` yazan kısma kendi portunu ve pin numaranı yaz.(ardinio da hangi dijital pine takmışsan pin odur. Ben 10 taktım)  
 Repodaki `1.py` adındaki python uzantılı dosyadaki kodu kullan ve yazarken anlamaya çalış.  
-![SharedScreenshot](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/ea17b4bd-d283-4f7d-9930-556de74272b6)
+![SharedScreenshot](https://github.com/iamselimyildiz/Rotate_Servo_Motor_Ardunio/assets/94224409/ea17b4bd-d283-4f7d-9930-556de74272b6)  
 10)yarıdmlarından dolayı teşekkürler...(I KNOW PYTHON https://www.youtube.com/watch?v=tJaXkdNaCQw)  
 
 
